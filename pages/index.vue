@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        pwa-news
+        pwa-news by p3rkstudios
       </h1>
       <h2 class="subtitle">
         Nuxt.js project
